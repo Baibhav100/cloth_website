@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div>
         <Grid2 classname='bg-black text-white text-center mt-10' sx={{bgcolor:"black",color:"white",py:3}}>
-            This is a footer>
+            <h1>this is footer which i will be designing </h1>
 
         </Grid2>
     </div>
